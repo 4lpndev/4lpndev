@@ -6,13 +6,19 @@
 </p>
 </div>
 
-i mostly code in:
-- python
-- html
-- css
-- js
-- c#
+<h1>i mostly code in:</h1>
+<ul>
+  <li>python</li>
+  <li>html</li>
+  <li>css</li>
+  <li>js</li>
+</ul>
 
-and i'm currently learning
-- C
-- c++
+<h2>and i'm currently learning</h2>
+<ul color="red">
+  <li>C</li>
+  <li>C++</li>
+</ul>
+
+
+###### if you want to add me on discord to chat and stuff, feel free to add me! (my user is 4lpn)
